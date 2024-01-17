@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Huang Yipo, a Ph.D. student at the School of Artificial Intelligence, Xidian University, and a visiting Ph.D. student at the School of Computer Science and Engineering, Nanyang Technological University.
+- 👋 Hi, I’m Huang Yipo, a Ph.D. student at Xidian University, and a visiting Ph.D. student at Nanyang Technological University.
 - 👀 I’m interested in multimedia quality assessment, computational aesthetics, and perceptual image processing.
 
 <!---
