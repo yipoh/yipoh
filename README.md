@@ -1,5 +1,5 @@
 - :raising_hand: I’m Huang Yipo, a Ph.D. student at Xidian University, and also a visiting Ph.D. student at Nanyang Technological University.
-- :art: I’m interested in multimedia quality assessment, computational aesthetics, and perceptual image processing.
+- :art: My research interests include multimedia quality assessment, computational aesthetics and perceptual image processing.
 
 <!---
 yipoh/yipoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
